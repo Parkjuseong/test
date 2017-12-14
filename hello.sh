@@ -13,6 +13,7 @@ Test()
 Test2()
 {
 	echo "Test"
+	echo "Test git"
 }
 Test3()
 {	
