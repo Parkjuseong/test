@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#FOR command line git tutorial
+#Github modification
+
 string1="hello"
 string2="world"
 a=5
