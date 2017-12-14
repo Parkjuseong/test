@@ -19,6 +19,7 @@ Test3()
 {	
 	
 	echo  " fixed!"
+	echo  " i got it"
 	
 }
 
