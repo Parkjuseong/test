@@ -13,6 +13,7 @@ Test2()
 Test3()
 {
 	printf " fixed!"
+	echo	" i will get it"
 }
 Test
 Test2
